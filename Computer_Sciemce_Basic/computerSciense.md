@@ -5,9 +5,9 @@ Internet bohut sare chote-bade netwoek ka global collocation hai. Internet ka ma
 # What is ISP(Internet Service Provider)?
 
 ISP ek organaization hoti hai jo internet provide karati hai. Internet ka use karane ke liye kisi ISP ka access hona jaruri hai. Ye organaization do tarik se Internet Provide karati hai.
+Example : JIO,Airtel,VI,Vodaphone,
 - 1. Wired : WIFI
 - 2. Wiredless : 2G/3G/4G/5G
-Example : JIO,Airtel,VI,Vodaphone,
 
 # What is client Devices?
 
